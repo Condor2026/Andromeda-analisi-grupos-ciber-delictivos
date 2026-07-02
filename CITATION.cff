@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Si usas este dossier en tu investigación, por favor cítalo como:"
+authors:
+  - family-names: "Condor2026" | GitHub
+    Twitter: "Panda_Sec_Intel" | X
+    VirusTotal: "Condor2026" | VT
+    email: "KiraSecuruty@proton.me" | Proton
+    Wallet: `0x08FADbEF3B4667824B910D2bD3d7372C8AdE3f68` Ethereum. | USD
+title: "Dossier de Inteligencia de Ciberamenazas - #OpThailand 2026"
+version: 1.0
+date-released: 2026-07-02
+url: "https://github.com/Condor2026/Andromeda-analisi-grupos-ciber-delictivos"
+repository-code: "https://github.com/Condor2026/Andromeda-analisi-grupos-ciber-delictivos"
+keywords:
+  - cybersecurity
+  - osint
+  - threat-intelligence
+  - Defense
+  - opthailand
+  - hacktivism
+license: MIT
