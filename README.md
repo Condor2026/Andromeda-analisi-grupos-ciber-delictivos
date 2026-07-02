@@ -1,3 +1,25 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=9B59B6&center=true&vCenter=true&width=600&lines=Condor2026+%7C+Threat+Hunter;OSINT+%7C+Purple+Team;OpThailand+%7C+Dossier+2026;Inteligencia+de+Amenazas;Ciberguerra+%7C+Hacktivismo" alt="Typing animation" />
+</p>
+
+---
+
+`cybersecurity` . `osint` . `threat-intelligence` . `opthailand` . `threat-hunting` . `purple-team` . `infosec` . `hacktivism` . `cyberwarfare`
+
+# 🦅 Condor2026 – Dossier de Inteligencia de Ciberamenazas
+
+| **#OpThailand 2026** | **OSINT Analysis** | **Threat Intelligence** |
+
+> *"Conocer al enemigo es el primer paso para defenderte."*
+
+---
+
+**Autor:** Condor2026  
+**Período:** 2026-06-22 al 2026-07-02  
+**Fuentes:** 40+ Canales de Telegram | ~7,177 eventos  
+**Clasificación:** [TLP:CLEAR] – Investigación Pública
+
+
 # DOSSIER DE INTELIGENCIA DE CIBERAMENAZAS - OPTHAILAND 2026
 
 
@@ -1003,4 +1025,8 @@ Hoy, el ecosistema es mucho más complejo. La línea entre el hacktivismo y el c
 ---
 
 **FIN DEL DOSSIER COMPLETO**
+
+---
+
+🦅 **Condor2026 - SpectrumSecurity** - **PURPLETEAM** - **Defense** - **StopCiberAttack** - **Prevencion** - **Periodismo** - **Threat Intelligence**  🦅
 
