@@ -1,0 +1,36 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.tmp
+*.log
+*.cache
+*.bak
+*.swp
+*.swo
+
+# Archivos de editor
+.vscode/
+.idea/
+*.iml
+
+# Archivos del proyecto
+node_modules/
+.env
+*.pyc
+__pycache__/
+
+# Datos sensibles (aunque estén anonimizados)
+data/raw/
+data/backup/
+*.xlsx
+*.csv
+*.db
+*.sqlite
+
+# Archivos de respaldo
+*~
+*.orig
+*.rej
