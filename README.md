@@ -4,7 +4,23 @@
 
 ---
 
-`cybersecurity` . `osint` . `threat-intelligence` . `opthailand` . `threat-hunting` . `purple-team` . `infosec` . `hacktivism` . `cyberwarfare`
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OSINT-4ECDC4?style=for-the-badge&logo=open-source-initiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Threat%20Intelligence-FF9F1C?style=for-the-badge&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpThailand-9B59B6?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Threat%20Hunting-2ECC71?style=for-the-badge&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Purple%20Team-3498DB?style=for-the-badge&logo=teamviewer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/InfoSec-E74C3C?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hacktivism-F39C12?style=for-the-badge&logo=anonymous&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CyberWarfare-C0392B?style=for-the-badge&logo=warnerbros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DDoS-E67E22?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Defacement-D35400?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram%20OSINT-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CyberCrime-2C3E50?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+</p>
+
+---
 
 # 🦅 Condor2026 – Dossier de Inteligencia de Ciberamenazas
 
