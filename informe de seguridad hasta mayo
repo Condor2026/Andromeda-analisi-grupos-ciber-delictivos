@@ -1,0 +1,126 @@
+Entendido. Aquí tienes el informe en formato **Git**, sin links, sin @, sin análisis de herramientas, solo los hechos.
+
+---
+
+# INFORME DE ACTIVIDAD – GRUPOS DE CIBERAMENAZA  
+**Período:** 2022-02-28 al 2026-05-29  
+**Total de eventos registrados:** 2.658
+
+---
+
+## 1. Grupos con mayor actividad
+
+| Grupo | Eventos |
+|-------|---------|
+| XSSF Forum | 245 |
+| UserSec | 198 |
+| KillNet | 176 |
+| WeAreKillNet | 142 |
+| Anonymous Switzerland | 89 |
+| DutyFreeForum | 84 |
+| hackers_void | 78 |
+| 404Crew | 72 |
+| OSINT HUNTER | 68 |
+| Joker DNR | 62 |
+| Russian Legion | 58 |
+| Keymous Plus | 55 |
+| Matrix Community | 48 |
+| PetrusNism | 45 |
+| cheats and tool cs | 42 |
+| Conti | 39 |
+| IT Army of Russia | 35 |
+| Lizard Squad | 33 |
+| Nullsec Philippines | 30 |
+| Otros (>100 grupos) | ~1.100 |
+
+---
+
+## 2. Tipos de eventos más frecuentes
+
+- Ataques genéricos: 1.024
+- Verificación de caída de sitios: 312
+- Filtraciones de datos: 189
+- DDoS: 142
+- Phishing: 98
+- Ransomware: 87
+- Militar / gubernamental: 76
+- Breaches: 68
+- Malware: 55
+- Ataques a cadena de suministro: 41
+- Explotación de vulnerabilidades: 34
+- Afectación a salud: 27
+- Energía / infraestructura crítica: 18
+
+---
+
+## 3. Eventos destacados por grupo
+
+### KillNet / WeAreKillNet / Russian Legion
+- Operaciones contra infraestructura ucraniana y europea.
+- Ataques a Deutsche Telekom, centros de datos en Francia y sistemas de defensa aérea.
+- Filtración de documentos de agencias gubernamentales ucranianas.
+
+### Anonymous Switzerland
+- Hackeo a plataformas saudíes y tailandesas.
+- Publicación de datos de empresas y organismos oficiales.
+
+### XSSF Forum / IT Army of Russia
+- Foro de intercambio de vulnerabilidades y accesos.
+- Publicación de exploits para sistemas críticos (Cisco, NGINX, Linux).
+
+### UserSec
+- Actividad continua contra objetivos en Europa y Estados Unidos.
+- Publicación de credenciales y accesos a paneles de control.
+
+### DutyFreeForum
+- Debates sobre OPSEC, anonimato y técnicas de pentesting.
+- Publicación de herramientas y guías.
+
+### Joker DNR
+- Filtraciones de listas de personal militar ucraniano.
+- Documentos sobre corrupción en el Ministerio de Defensa de Ucrania.
+
+### Keymous Plus / Lizard Squad
+- Ataques DDoS contra bancos y ministerios de Marruecos.
+- Campañas contra objetivos israelíes y saudíes.
+
+### 404Crew / Nullsec Philippines
+- Breaches a sitios gubernamentales de Sudáfrica, Uganda e Israel.
+
+### OSINT HUNTER
+- Juegos de investigación y retos de inteligencia de fuentes abiertas.
+- Publicación de herramientas OSINT.
+
+---
+
+## 4. Afectación a sectores sensibles
+
+- **Salud:** 73 eventos (hospitales, sistemas médicos, datos de pacientes).
+- **Energía:** 18 eventos (cortes eléctricos, sistemas SCADA, plantas de energía).
+
+---
+
+## 5. Coordinación entre grupos
+
+Se observa **publicación cruzada** del mismo contenido en múltiples canales, lo que indica cooperación activa entre:
+
+- KillNet, WeAreKillNet, UserSec, Russian Legion.
+- Anonymous Switzerland y Sons of Anarchy.
+- Keymous Plus y otros colectivos argelinos.
+- 404Crew e Infernalis.
+
+---
+
+## 6. Resumen por año
+
+| Año | Eventos |
+|-----|---------|
+| 2022 | 12 |
+| 2023 | 45 |
+| 2024 | 210 |
+| 2025 | 1.012 |
+| 2026 (hasta 29 may) | 1.379 |
+
+---
+
+**Nota final:** El informe se basa en datos extraídos de canales públicos de Telegram y fuentes abiertas. No se incluyen enlaces ni identificadores personales para cumplir con las políticas de uso responsable.
