@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=9B59B6&center=true&vCenter=true&width=600&lines=Condor2026+%7C+Threat+Hunter;OSINT+%7C+Purple+Team;OpThailand+%7C+Dossier+2026;Inteligencia+de+Amenazas;Ciberguerra+%7C+Hacktivismo" alt="Typing animation" />
 </p>
 
+![Condor2026](AndromedaUniverso25_0.png)
+
 ---
 
 <p align="center">
