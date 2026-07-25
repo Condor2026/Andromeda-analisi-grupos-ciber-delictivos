@@ -32,7 +32,7 @@
 
 ---
 
-**Autor:** Condor2026  
+**Autor:** Condor2026 threat security - andromeda private suite
 **Período:** 2026-06-22 al 2026-07-02  
 **Fuentes:** 40+ Canales de Telegram | ~7,177 eventos  
 **Clasificación:** [TLP:CLEAR] – Investigación Pública
@@ -1045,6 +1045,7 @@ Hoy, el ecosistema es mucho más complejo. La línea entre el hacktivismo y el c
 **FIN DEL DOSSIER COMPLETO**
 
 ---
+ 
 
-🦅 **Condor2026 - SpectrumSecurity** - **PURPLETEAM** - **Defense** - **StopCiberAttack** - **Prevencion** - **Periodismo** - **Threat Intelligence**  🦅
+🦅  **Autor:** Condor2026 - Threat Security - **Andromeda Private Suite** - **PURPLETEAM** - **Defense** - **StopCiberAttack** - **Prevencion** - **Periodismo** - **Threat Intelligence**  🦅
 
