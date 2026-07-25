@@ -4,7 +4,7 @@
 
 **Título:** Dossier de Inteligencia de Ciberamenazas - #OpThailand 2026
 
-**Autor:** Condor2026
+**Autor:** Condor2026 - Threat Security - 🦅
 
 **Fecha de Publicación:** 2026-07-02
 
